@@ -19,7 +19,7 @@ Atuo na criação de soluções digitais de ponta a ponta: entendo o problema, d
 - **Soluções para igrejas e comunidades** — ferramentas para organizar equipes, escalas, membros e rotinas administrativas.
 - **Dashboards e experiências digitais** — painéis operacionais, cardápios digitais, convites e ferramentas para acompanhar processos e resultados.
 
-Os projetos estão em diferentes etapas de desenvolvimento e validação. Por enquanto, mantenho seus repositórios privados; pretendo publicar versões revisadas e bem documentadas conforme cada solução amadurecer.
+Os projetos estão em diferentes etapas de desenvolvimento e validação. Aqui apresento as áreas de atuação sem expor detalhes de implementações fechadas; novas versões serão compartilhadas quando estiverem revisadas e documentadas.
 
 ## Linguagens que aparecem nos projetos
 
@@ -47,7 +47,7 @@ As tecnologias variam de acordo com cada produto; esta lista reúne as que apare
 
 ## Em construção
 
-Estou validando as soluções e preparando uma forma consistente de apresentar cada projeto, com documentação e repositórios públicos quando estiverem prontos para compartilhar.
+Estou organizando este portfólio para compartilhar projetos, aprendizados e documentação conforme cada solução amadurecer.
 
 <div align="center">
 
