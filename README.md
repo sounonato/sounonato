@@ -1,56 +1,105 @@
 <div align="center">
 
-# Olá, eu sou sounonato 👋
+# sounonato
 
-### Desenvolvimento de software · Produtos digitais · Automação
+### Software • Automação • Produtos digitais
 
-Transformo processos do dia a dia em sistemas, integrações e automações que ajudam negócios e comunidades a trabalhar melhor.
+**Transformo processos reais em sistemas e automações que geram clareza, agilidade e escala.**
+
+<img alt="Soluções digitais" src="https://img.shields.io/badge/Solu%C3%A7%C3%B5es%20digitais-Produtos%20e%20sistemas-2563EB?style=flat-square" />
+<img alt="Automação" src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Processos%20inteligentes-7C3AED?style=flat-square" />
+<img alt="Inteligência artificial" src="https://img.shields.io/badge/IA-Agentes%20e%20integra%C3%A7%C3%B5es-0F766E?style=flat-square" />
 
 </div>
 
+<br />
+
 ## Sobre
 
-Atuo na criação de soluções digitais de ponta a ponta: entendo o problema, desenho o produto e conecto interfaces, APIs, dados e automações. Meus projetos exploram como a tecnologia pode simplificar operações reais, do primeiro atendimento à gestão do negócio.
+Atuo no desenvolvimento de soluções digitais para empresas e comunidades. Conecto entendimento do negócio, desenho de produto, aplicações web, APIs, dados e automações para simplificar operações e reduzir tarefas manuais.
 
-## O que venho construindo
+## Áreas de atuação
 
-- **Sistemas de gestão e SaaS** — plataformas para agenda, clientes, vendas, orçamentos, pedidos e produção em diferentes tipos de negócio.
-- **Automação e inteligência artificial** — assistentes e agentes, fluxos com n8n e integrações com WhatsApp, Telegram e serviços externos.
-- **Soluções para igrejas e comunidades** — ferramentas para organizar equipes, escalas, membros e rotinas administrativas.
-- **Dashboards e experiências digitais** — painéis operacionais, cardápios digitais, convites e ferramentas para acompanhar processos e resultados.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Sistemas e SaaS</h3>
+      <p>Plataformas de gestão para agenda, clientes, vendas, orçamentos, pedidos e produção.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automação e IA</h3>
+      <p>Assistentes, agentes de IA e fluxos integrados a WhatsApp, Telegram e serviços externos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Negócios e comunidades</h3>
+      <p>Ferramentas para organizar operações de pequenos negócios, igrejas e equipes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Dashboards e produtos digitais</h3>
+      <p>Painéis operacionais, experiências digitais e soluções para acompanhar processos e resultados.</p>
+    </td>
+  </tr>
+</table>
 
-Os projetos estão em diferentes etapas de desenvolvimento e validação. Aqui apresento as áreas de atuação sem expor detalhes de implementações fechadas; novas versões serão compartilhadas quando estiverem revisadas e documentadas.
+## Tecnologias
 
-## Linguagens que aparecem nos projetos
+As tecnologias abaixo aparecem em diferentes projetos; cada solução usa a combinação adequada ao seu contexto.
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top"><strong>Linguagens</strong></td>
+    <td>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img alt="C sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend</strong></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img alt="TanStack Start" src="https://img.shields.io/badge/TanStack%20Start-FF4154?style=flat-square&logo=tanstack&logoColor=white" />
+      <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend e dados</strong></td>
+    <td>
+      <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Automação e entrega</strong></td>
+    <td>
+      <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img alt="APIs REST" src="https://img.shields.io/badge/APIs%20REST-005571?style=flat-square" />
+      <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-## Tecnologias e áreas de trabalho
+## Portfólio em evolução
 
-- **Frontend:** React, Next.js, TanStack Start, Vite e Tailwind CSS
-- **Backend:** .NET, Spring Boot, Node.js e Python
-- **Dados:** PostgreSQL e Supabase
-- **Automação e integrações:** n8n, APIs REST, webhooks, WhatsApp, Telegram e integração com modelos de IA
-- **Entrega:** Docker, aplicações web e serviços em nuvem
-
-As tecnologias variam de acordo com cada produto; esta lista reúne as que aparecem no conjunto dos projetos.
-
-## Em construção
-
-Estou organizando este portfólio para compartilhar projetos, aprendizados e documentação conforme cada solução amadurecer.
+Estou validando e documentando as soluções antes de abrir novos projetos. Este perfil apresenta as áreas em que trabalho; novidades e repositórios públicos serão adicionados conforme cada projeto estiver pronto para compartilhar.
 
 <div align="center">
 
-**Construindo software para resolver problemas reais.**
+**Tecnologia com propósito. Soluções feitas para problemas reais.**
 
 </div>
